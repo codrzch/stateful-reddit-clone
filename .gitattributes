@@ -1,0 +1,4 @@
+# Vendored Files
+
+public/index.html/* linguist-vendored=true
+src/index.css/* linguist-vendored=true
